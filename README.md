@@ -5,4 +5,4 @@ My name is Sam and I am a college student studying Electrical and Computer Engin
 
 🌱 I am learning frontend development for fun, and working on more Arduino-based side projects.
 
-⚡ More About Me: https://samstep.net
+
